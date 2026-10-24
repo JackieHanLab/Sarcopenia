@@ -66,8 +66,6 @@ tests/
 
 The output is a continuous research screening score. It is not a calibrated absolute-risk estimate or a diagnosis. The manuscript's 0.45 value is a representative working point, rather than a clinically optimized cutoff; the code evaluates supplied thresholds and does not choose one.
 
-This repository does not recreate facial predictions from raw images, retrain the study models, or reproduce study-specific figures and cohort results. Facial preprocessing, dense registration, training feature matrices, selected models, AURORA generation, and cohort-specific statistical analyses remain available from the corresponding author on reasonable request, subject to ethics, privacy, institutional, and data-use requirements. Raw facial images are identifiable and restricted; UK Biobank data require its standard research application.
-
 ## License
 
 The public code is distributed under the MIT License. Please cite the associated manuscript when using this repository.
